@@ -1,6 +1,6 @@
 // import Expense_Item from "./components/Expense_Item";
 import Expenses from "./components/Expenses";
-// old projects used Reacrt syntax of React instead of JSX
+// old projects used React syntax of React instead of JSX
 // hence React was imported in every component
 import React, { useState } from "react";
 import New_Expense from "./components/New_Expense/New_Expense";
